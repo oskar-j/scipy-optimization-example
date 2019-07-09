@@ -21,3 +21,9 @@ of the normal distributions and probability *P*
 
 Your score will be the *total variational distance* of your estimated distribution 
 and the original distribution. **Get as close as you can to zero.** 
+
+## Solution
+
+```
+python optimization.py
+```
