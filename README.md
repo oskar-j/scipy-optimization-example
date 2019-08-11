@@ -27,3 +27,15 @@ and the original distribution. **Get as close as you can to zero.**
 ```
 python optimization.py
 ```
+
+## Requirements
+
+### Required packages
+
+```
+pip install -r requirements.txt
+```
+
+### Environment
+
+Tested on Ubuntu `18.04` LTS, standard laptop equipped with `i7` and `16GB` of RAM.
